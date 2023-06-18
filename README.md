@@ -1,4 +1,4 @@
-<h1 align="center">Treine.me</h1>
+<h1 align="center">Advanced Available</h1>
 
 <p align="center">
 Esse desafio tem como objetivo desenvolver uma aplicação a partir de um layout oferecido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>. <br/>
